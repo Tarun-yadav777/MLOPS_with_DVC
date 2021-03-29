@@ -1,7 +1,7 @@
 # ML-OPs with DVC
 
-![Project Image]()
-
+![Project Image](https://github.com/Tarun-yadav777/MLOPS_with_DVC/blob/main/webapp/static/app.PNG)
+> Live demo of app is https://mlop.herokuapp.com/ <br>
 > This is a ReadMe template to help save you time and effort.
 
 ---
@@ -19,12 +19,17 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+This app is created using a simple machine learning problem of wine quality using open source tool for version control DVC(Data version control) for tracking the code, data and ml model
+
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Python
+- ML - Ops
+- Version Control using DVC
+- Heroku
+- Git
+
 
 [Back To The Top](#read-me-template)
 
@@ -37,15 +42,27 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 
 #### API Reference
-
+-For downloading file in your local system
 ```html
-    <p>dummy code</p>
+    git clone https://github.com/Tarun-yadav777/MLOPS_with_DVC.git or download zip file
+```
+-For running in your local system
+```html
+    pip -r requirements.txt
+```
+```html
+    python app.py
 ```
 [Back To The Top](#read-me-template)
 
 ---
 
 ## References
+-Youtube Channel [Krish Naik's](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)<br>
+-Github [Sunny Chandra](https://github.com/c17hawke)<br>
+-Google<br>
+-StackOverflow<br>
+
 [Back To The Top](#read-me-template)
 
 ---
@@ -80,7 +97,8 @@ SOFTWARE.
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+-Author - Tarun Yadav
+- Twitter - [@taronic777](https://twitter.com/taronic777)
+- LinkedIn - [Tarun Yadav](https://www.linkedin.com/in/tarun-yadav-47442112b/)
 
 [Back To The Top](#read-me-template)
