@@ -1,6 +1,8 @@
 # ML-OPs with DVC
 
-![Project Image](https://github.com/Tarun-yadav777/MLOPS_with_DVC/blob/main/webapp/static/app.PNG)
+![Project Image](https://github.com/Tarun-yadav777/MLOPS_with_DVC/blob/main/webapp/static/app.PNG)<br><br>
+ML-Flow<br>
+![Project Image](https://github.com/Tarun-yadav777/MLOPS_with_DVC/blob/main/webapp/static/mlflow.PNG)
 > Live demo of app is https://mlop.herokuapp.com/ <br>
 > This is a ReadMe template to help save you time and effort.
 
@@ -19,7 +21,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-This app is created using a simple machine learning problem of wine quality using open source tool for version control DVC(Data version control) for tracking the code, data and ml model
+This app is created using a simple machine learning problem of wine quality using open source tool for version control DVC(Data version control) for tracking the code, data and ml model using MlFlow.
 
 
 #### Technologies
@@ -27,6 +29,7 @@ This app is created using a simple machine learning problem of wine quality usin
 - Python
 - ML - Ops
 - Version Control using DVC
+- MLFlow
 - Heroku
 - Git
 
